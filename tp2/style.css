@@ -1,0 +1,15 @@
+/*feuille de style pour le tp2*/
+
+body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+fieldset{border:2px solidrgb(31, 106, 131); background-color: rgb(186, 209, 210);}
+
+label{
+    color:rgb(52, 16, 143);
+    font-size:20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    label_textarea{display:block;}
+    
+input{width:150px margin:15px; padding:12px;}
+   
